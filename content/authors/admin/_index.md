@@ -1,37 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Daniel Chaparro
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Neuro Robotics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Trinity College
+  url: "https://www.tcd.ie/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing, programmable matter, and hyperspace-related cupcake dough.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Science
+- Data Science
+- Artificial Intuiton Applied to Robotics
+- Artificial Intelligence Applied to Robotics
+- Data scrapping
+- High-Performance Bio-Robotic Computation
+- Bio-Robotic Learning Paradigms
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Artificial Intelligence (obvio)
     institution: Stanford University
-    year: 2012
+    year: 2026
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2023
+  - course: BSc in Mechatronics Engineering
+    institution: Universidad Nacional Autonoma de Mexico
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,7 +54,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dancdcr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +74,12 @@ user_groups:
 - Visitors
 ---
 
+Daniel Chaparro is an Engineering student with a sinuos path trough college, but not sinuos enought to be an example of how to overcome the challenges of pursuing and intricate dream. Eventho, he managed to be a student in the Engineering School of the _Universidad NAcional Autonoma de Mexico_ and be part of the High Performance Alumni Program (_PARA_ in spanish). In his later school years, he was part of the _Mechatronics Research Group_ (__MRG__) where he worked on a project of autonomous robotics seeking for the convergent and organic merge of artificial intelligence and intuition, under the charge of the PhD_Felipe Rivas_ and _Javier Gonzales Villela_, obtainting outsatnding results (obvio si, obvio si osi).
+
+__Ahora lo que venia a ver como se ve__
+
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+__Y pos un lorem pal test, si? Por que no? Ningun test esta completo sin un Lorem__ 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

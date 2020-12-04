@@ -17,12 +17,37 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Professor Assistant"
+  company = "Universidad Nacional Autonoma de Mexico"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "CDMX Mexico"
+  date_start = "2019-08-01"
+  date_end = "2020-02-07"
+  description = """In charge of the class 'Modelation and Simulation of Physical Systems' of the High Performance Alumni Program."""
+
+[[experience]]
+  title = "Dev, mate"
+  company = "ViT"
+  company_url = ""
+  location = "CDMX, Mexico"
+  date_start = "2018-06-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Web pages design
+  * Data base Management
+  * Deploying
+  """
+
+[[experience]]
+  title = "Structured cabling and Network Technician"
+  company = "Infratel Co."
+  company_url = ""
+  location = "Coahuila, Mexico"
+  date_start = "2012-01-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -30,15 +55,6 @@ date_format = "Jan 2006"
   * Analysing
   * Modelling
   * Deploying
+  * And so on
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
 +++

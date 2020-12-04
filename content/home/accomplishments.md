@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+ title = "Accomplish&shy;ments"
+#title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -19,24 +20,34 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "DS Ciencias"
+  organization_url = "https://ds-ciencias.negocio.site/"
+  title = "Data Science 2020"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  date_start = "2020-02-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Machine Learning"
+  url = "https://www.coursera.org/lecture/machine-learning/features-and-polynomial-regression-Rqgfz"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2020-07-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "Artificial Intelligence for Robotics"
+  url = "https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373"
+  certificate_url = "https://www.edx.org"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = "Artificial intelligence applied to Robotics (Suggested by El Rivas)"
   
 [[item]]
   organization = "DataCamp"
